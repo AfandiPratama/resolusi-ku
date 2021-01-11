@@ -5,8 +5,6 @@ Rencana Belajar
   * Symfony
   * Code Igniter
 - Version Control System (GIT)
-- pengelolaaan kontainer
-  * Docker
 - Kotlin
   * Kotlin dasar
   * OOP Kotlin
