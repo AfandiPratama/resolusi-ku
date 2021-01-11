@@ -3,6 +3,7 @@ Rencana Belajar
 - OOP PHP
 - PHP Framework
   * Symfony
+  * Code Igniter
 - Version Control System (GIT)
 - pengelolaaan kontainer
   * Docker
