@@ -3,3 +3,6 @@ Rencana Belajar
 - OOP PHP
 - PHP Framework
 - Version Control System (GIT)
+- Kotlin
+  * Kotlin dasar
+  * OOP Kotlin
