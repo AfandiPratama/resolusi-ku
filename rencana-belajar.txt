@@ -2,9 +2,9 @@ Rencana Belajar
 - PHP Dasar
 - OOP PHP
 - PHP Framework
+  * Laravel
+  * Symfony
 - Version Control System (GIT)
-- pengelolaaan kontainer
-  * Docker
 - Kotlin
   * Kotlin dasar
   * OOP Kotlin
